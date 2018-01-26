@@ -1,17 +1,12 @@
 # angular-cli-lazyloading
 
 
-## This is just a basic template for angular lazy load module
-
-
-## You can read my article about lazy loading in [here](https://medium.com/@leekp/lazy-loading-with-angular-4-29c23792b7f4)
-
-
+This is just a basic template for angular lazy load module.You can read my article about lazy loading in [here](https://medium.com/@leekp/lazy-loading-with-angular-4-29c23792b7f4)
 
 ## Let’s start the application and see how lazy it is.
 
 
-### _simply run ng serve to start the application. Open Chrome Dev Tool by pressing F12, then go to Network tab. When you navigate to a new page, you will see the *.chunk.js will download if that page is never visit before._
+ _simply run ng serve to start the application. Open Chrome Dev Tool by pressing F12, then go to Network tab. When you navigate to a new page, you will see the *.chunk.js will download if that page is never visit before._
 
 
 
